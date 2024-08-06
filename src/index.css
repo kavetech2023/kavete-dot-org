@@ -27,6 +27,7 @@ a{
   border:0;
   outline:0;
   display: inline-flex;
+  margin-right: 10px;
   align-items:center;
   justify-content:center;
 }
